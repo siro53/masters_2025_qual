@@ -47,10 +47,8 @@ $ git clone --recursive git@github.com:siro53/masters_2025_qual.git
 
 - ビジュアライザを起動する
 
-初回起動時のみ `YARN_INIT=1` を付けて実行すること
-
 ```console
-$ (YARN_INIT=1) sh run_visualizer.sh
+$ sh run_visualizer.sh
 ```
 
 すると、localhost:5173 にてビジュアライザが立ち上がるはず

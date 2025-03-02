@@ -1,0 +1,4 @@
+*.zip
+tools/
+yarn.lock
+node_modules
