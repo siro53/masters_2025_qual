@@ -8,4 +8,5 @@ EXEC_FILE=$SCRIPT_DIR/a.out
 
 g++ -std=c++20 -O2 -DDEBUG -Wall -Wextra $SOURCE_FILE
 cd $SCRIPT_DIR/tools
-cargo run -r --bin tester $EXEC_FILE < $INPUT_FILE > $OUTPUT_FILE
+$EXEC_FILE < $INPUT_FILE > $OUTPUT_FILE
+cargo run -r --bin score $INPUT_FILE $OUTPUT_FILE
