@@ -1,4 +1,7 @@
 *.zip
 tools/
+.vscode
 yarn.lock
 node_modules
+a.out
+output.txt
