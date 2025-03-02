@@ -8,6 +8,8 @@
 - B: https://atcoder.jp/contests/masters2025-qual/submissions/63334407
 - C: https://atcoder.jp/contests/masters2025-qual/submissions/63337452
 
+- chatGPTとの対話 : https://chatgpt.com/share/67c463ce-9a40-8004-a772-cd6b954ecb4e
+
 ## 環境構築メモ
 
 ### 前提
