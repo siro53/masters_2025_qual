@@ -2,6 +2,12 @@
 
 - コンテストサイト：https://atcoder.jp/contests/masters2025-qual
 
+最終順位: 45位
+
+A: https://atcoder.jp/contests/masters2025-qual/submissions/63337447
+B: https://atcoder.jp/contests/masters2025-qual/submissions/63334407
+C: https://atcoder.jp/contests/masters2025-qual/submissions/63337452
+
 ## 環境構築メモ
 
 ### 前提
